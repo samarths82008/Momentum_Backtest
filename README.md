@@ -2,7 +2,7 @@
 
 A time-series momentum strategy on SPY, built entirely from scratch in Python with no backtesting libraries. Every line of logic is explicit and explainable.
 
-<img width="512" height="407" alt="image" src="https://github.com/user-attachments/assets/b8faa7a8-d59e-4009-8667-1569d3bfdf38" />
+<img width="993" height="637" alt="Screenshot 2026-04-27 at 10 52 00 AM" src="https://github.com/user-attachments/assets/dd171abc-aaed-4271-b706-494a8794b6b1" />
 
 
 ---
