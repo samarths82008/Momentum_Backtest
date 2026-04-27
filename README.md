@@ -2,7 +2,8 @@
 
 A time-series momentum strategy on SPY, built entirely from scratch in Python with no backtesting libraries. Every line of logic is explicit and explainable.
 
-![Equity Curve](charts/equity_curve.png)
+<img width="512" height="407" alt="image" src="https://github.com/user-attachments/assets/b8faa7a8-d59e-4009-8667-1569d3bfdf38" />
+
 
 ---
 
