@@ -125,7 +125,6 @@ momentum-backtest/
 4. How does volatility targeting improve risk-adjusted returns?
 5. How would you extend this to a multi-asset portfolio?
 
-Full answers to all five are written into the notebook as markdown cells.
 
 ---
 
